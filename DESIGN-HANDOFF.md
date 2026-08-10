@@ -3,12 +3,11 @@
 This archive is the source of truth for implementing the exported Design Expert prototype.
 
 ## Entry
-- Primary file: `coffee-shop/index.html`
+- Primary file: `index.html`
 - Machine-readable manifest: `DESIGN-MANIFEST.json`
 
 ## Source Files
-- `root/.openclaw-autoclaw/workspace/coffee-shop/index.html`
-- `coffee-shop/index.html`
+- `index.html`
 
 ## Implementation Checklist
 1. Inspect `coffee-shop/index.html` and `DESIGN-MANIFEST.json` before coding.

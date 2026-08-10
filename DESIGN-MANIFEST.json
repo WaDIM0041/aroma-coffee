@@ -2,15 +2,13 @@
   "schema": "autoclaw.autodesign.export.v1",
   "title": "index.html",
   "exportedAt": "2026-08-10T13:22:00.113Z",
-  "entryFile": "coffee-shop/index.html",
+  "entryFile": "index.html",
   "sourceFiles": {
     "all": [
-      "root/.openclaw-autoclaw/workspace/coffee-shop/index.html",
-      "coffee-shop/index.html"
+      "index.html"
     ],
     "html": [
-      "root/.openclaw-autoclaw/workspace/coffee-shop/index.html",
-      "coffee-shop/index.html"
+      "index.html"
     ],
     "markdown": [],
     "images": [],
