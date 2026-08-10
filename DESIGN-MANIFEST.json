@@ -1,0 +1,24 @@
+{
+  "schema": "autoclaw.autodesign.export.v1",
+  "title": "index.html",
+  "exportedAt": "2026-08-10T13:22:00.113Z",
+  "entryFile": "coffee-shop/index.html",
+  "sourceFiles": {
+    "all": [
+      "root/.openclaw-autoclaw/workspace/coffee-shop/index.html",
+      "coffee-shop/index.html"
+    ],
+    "html": [
+      "root/.openclaw-autoclaw/workspace/coffee-shop/index.html",
+      "coffee-shop/index.html"
+    ],
+    "markdown": [],
+    "images": [],
+    "data": []
+  },
+  "implementationNotes": [
+    "Open the entry file first, then inspect the generated HTML, CSS, Markdown, data and image assets before coding.",
+    "Preserve visible layout, tokens, responsive behavior and meaningful interactions from the exported prototype.",
+    "Keep prototype preview chrome out of the production implementation."
+  ]
+}
